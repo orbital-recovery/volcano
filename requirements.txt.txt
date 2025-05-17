@@ -1,0 +1,1 @@
+Flask==2.3.3  # Or a more recent stable version of Flask

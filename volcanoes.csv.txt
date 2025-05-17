@@ -1,0 +1,7 @@
+Name,Latitude,Longitude,Type,LastKnownEruption
+Mount Vesuvius,40.821,14.426,Stratovolcano,1944
+Mount Etna,37.751,14.993,Stratovolcano,Ongoing
+Mount St. Helens,46.1914,-122.1956,Stratovolcano,2008
+Krakatoa, -6.102,105.423,Caldera,2023
+Mauna Loa,19.475,-155.608,Shield volcano,2022
+Eyjafjallajökull,63.63,-19.62,Stratovolcano,2010
