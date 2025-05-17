@@ -1,0 +1,4 @@
+/* Example: Make popups a bit wider */
+.leaflet-popup-content-wrapper {
+    width: 250px;
+}
